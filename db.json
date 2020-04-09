@@ -1,1 +1,44 @@
-{data: [{ nama: "Spongebob", harga: 5500000, image: "https://pngimg.com/uploads/spongebob/spongebob_PNG18.png" }, { nama: "Squidward", harga: 3400000, image: "https://img.uncyc.org/id/0/0c/Squidward_Tentacles.png" }, { nama: "Krabs", harga: 999999999999999999, image: "https://img.uncyc.org/id/8/80/Mr._Krabs.png" }, { nama: "Patrick", harga: 3400000, image: "https://img.uncyc.org/id/thumb/7/7e/Patrick_Star.png/150px-Patrick_Star.png" }, { nama: "Gary", harga: 1400000, image: "https://vignette.wikia.nocookie.net/spongebob/images/c/cd/Gary_the_Snail.png/revision/latest?cb=20121008231800&path-prefix=id" }, { nama: "Neptune", harga: 3400000, image: "https://i.ya-webdesign.com/images/king-neptune-png-18.png" }, { nama: "Coller Neptune", harga: 3400000, image: "https://vignette.wikia.nocookie.net/nickelodeon/images/7/7d/Neptune_with_trident_render.png/revision/latest/top-crop/width/180/height/135?cb=20190127020014&path-prefix=id" }, { nama: "Mermaid Man and Barnacle Boy", harga: 3400000, image: "https://vignette.wikia.nocookie.net/nickelodeon/images/1/13/Mermaid_Man_and_Barnacle_Boy_Promo.png/revision/latest/top-crop/width/180/height/135?cb=20190203051453&path-prefix=id" } ]}
+{
+               "data": [{
+                        nama: "Spongebob",
+                        harga: 5500000,
+                        image: "https://pngimg.com/uploads/spongebob/spongebob_PNG18.png"
+                    },
+                    {
+                        nama: "Squidward",
+                        harga: 3400000,
+                        image: "https://img.uncyc.org/id/0/0c/Squidward_Tentacles.png"
+                    },
+                    {
+                        nama: "Krabs",
+                        harga: 999999999999999999,
+                        image: "https://img.uncyc.org/id/8/80/Mr._Krabs.png"
+                    },
+                    {
+                        nama: "Patrick",
+                        harga: 3400000,
+                        image: "https://img.uncyc.org/id/thumb/7/7e/Patrick_Star.png/150px-Patrick_Star.png"
+                    },
+                    {
+                        nama: "Gary",
+                        harga: 1400000,
+                        image: "https://vignette.wikia.nocookie.net/spongebob/images/c/cd/Gary_the_Snail.png/revision/latest?cb=20121008231800&path-prefix=id"
+                    },
+                    {
+                        nama: "Neptune",
+                        harga: 3400000,
+                        image: "https://i.ya-webdesign.com/images/king-neptune-png-18.png"
+                    },
+                    {
+                        nama: "Coller Neptune",
+                        harga: 3400000,
+                        image: "https://vignette.wikia.nocookie.net/nickelodeon/images/7/7d/Neptune_with_trident_render.png/revision/latest/top-crop/width/180/height/135?cb=20190127020014&path-prefix=id"
+                    },
+                    {
+                        nama: "Mermaid Man and Barnacle Boy",
+                        harga: 3400000,
+                        image: "https://vignette.wikia.nocookie.net/nickelodeon/images/1/13/Mermaid_Man_and_Barnacle_Boy_Promo.png/revision/latest/top-crop/width/180/height/135?cb=20190203051453&path-prefix=id"
+                    }
+
+                ]
+}
