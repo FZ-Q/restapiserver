@@ -31,5 +31,8 @@
         nama: "Mermaid Man and Barnacle Boy",
         harga: 3400000,
         image: "https://vignette.wikia.nocookie.net/nickelodeon/images/1/13/Mermaid_Man_and_Barnacle_Boy_Promo.png/revision/latest/top-crop/width/180/height/135?cb=20190203051453&path-prefix=id"
-    }]
+    }],
+    "profile": {
+    "name": "F.A"
+  }
 }
