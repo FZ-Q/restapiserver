@@ -125,60 +125,6 @@
     "start_date": "2012/12/18",
     "office": "London",
     "extn": "3597"
-  },
-  {
-    "id": "15",
-    "name": "Tatyana Fitzpatrick",
-    "position": "Regional Director",
-    "salary": "$385,750",
-    "start_date": "2010/03/17",
-    "office": "London",
-    "extn": "1965"
-  },
-  {
-    "id": "16",
-    "name": "Michael Silva",
-    "position": "Marketing Designer",
-    "salary": "$198,500",
-    "start_date": "2012/11/27",
-    "office": "London",
-    "extn": "1581"
-  },
-  {
-    "id": "17",
-    "name": "Paul Byrd",
-    "position": "Chief Financial Officer (CFO)",
-    "salary": "$725,000",
-    "start_date": "2010/06/09",
-    "office": "New York",
-    "extn": "3059"
-  },
-  {
-    "id": "18",
-    "name": "Gloria Little",
-    "position": "Systems Administrator",
-    "salary": "$237,500",
-    "start_date": "2009/04/10",
-    "office": "New York",
-    "extn": "1721"
-  },
-  {
-    "id": "19",
-    "name": "Bradley Greer",
-    "position": "Software Engineer",
-    "salary": "$132,000",
-    "start_date": "2012/10/13",
-    "office": "London",
-    "extn": "2558"
-  },
-  {
-    "id": "20",
-    "name": "Dai Rios",
-    "position": "Personnel Lead",
-    "salary": "$217,500",
-    "start_date": "2012/09/26",
-    "office": "Edinburgh",
-    "extn": "2290"
   }
 ]
 }
