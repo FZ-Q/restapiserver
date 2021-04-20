@@ -224,51 +224,6 @@
     "start_date": "2009/10/09",
     "office": "London",
     "extn": "5797"
-  },
-  {
-    "id": "26",
-    "name": "Gavin Joyce",
-    "position": "Developer",
-    "salary": "$92,575",
-    "start_date": "2010/12/22",
-    "office": "Edinburgh",
-    "extn": "8822"
-  },
-  {
-    "id": "27",
-    "name": "Jennifer Chang",
-    "position": "Regional Director",
-    "salary": "$357,650",
-    "start_date": "2010/11/14",
-    "office": "Singapore",
-    "extn": "9239"
-  },
-  {
-    "id": "28",
-    "name": "Brenden Wagner",
-    "position": "Software Engineer",
-    "salary": "$206,850",
-    "start_date": "2011/06/07",
-    "office": "San Francisco",
-    "extn": "1314"
-  },
-  {
-    "id": "29",
-    "name": "Fiona Green",
-    "position": "Chief Operating Officer (COO)",
-    "salary": "$850,000",
-    "start_date": "2010/03/11",
-    "office": "San Francisco",
-    "extn": "2947"
-  },
-  {
-    "id": "30",
-    "name": "Shou Itou",
-    "position": "Regional Marketing",
-    "salary": "$163,000",
-    "start_date": "2011/08/14",
-    "office": "Tokyo",
-    "extn": "8899"
   }
 ]
 }
