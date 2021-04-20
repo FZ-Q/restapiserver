@@ -179,51 +179,6 @@
     "start_date": "2012/09/26",
     "office": "Edinburgh",
     "extn": "2290"
-  },
-  {
-    "id": "21",
-    "name": "Jenette Caldwell",
-    "position": "Development Lead",
-    "salary": "$345,000",
-    "start_date": "2011/09/03",
-    "office": "New York",
-    "extn": "1937"
-  },
-  {
-    "id": "22",
-    "name": "Yuri Berry",
-    "position": "Chief Marketing Officer (CMO)",
-    "salary": "$675,000",
-    "start_date": "2009/06/25",
-    "office": "New York",
-    "extn": "6154"
-  },
-  {
-    "id": "23",
-    "name": "Caesar Vance",
-    "position": "Pre-Sales Support",
-    "salary": "$106,450",
-    "start_date": "2011/12/12",
-    "office": "New York",
-    "extn": "8330"
-  },
-  {
-    "id": "24",
-    "name": "Doris Wilder",
-    "position": "Sales Assistant",
-    "salary": "$85,600",
-    "start_date": "2010/09/20",
-    "office": "Sydney",
-    "extn": "3023"
-  },
-  {
-    "id": "25",
-    "name": "Angelica Ramos",
-    "position": "Chief Executive Officer (CEO)",
-    "salary": "$1,200,000",
-    "start_date": "2009/10/09",
-    "office": "London",
-    "extn": "5797"
   }
 ]
 }
