@@ -1,7 +1,7 @@
 {
 	"rows": [
-		{ "kaset_id": 99, "kaset_nama": "test\r\n", "kaset_created_at": "2021-04-22", "kaset_updated_at": null, "kaset_deleted_at": null },
-		{ "kaset_id": 123, "kaset_nama": "asd", "kaset_created_at": "2021-04-22", "kaset_updated_at": null, "kaset_deleted_at": null }
+		{ "kaset_id": 99, "kaset_nama": "test\r\n"},
+		{ "kaset_id": 123, "kaset_nama": "asd"}
 	],
 	"total": 2,
 	"totalNotFiltered": 2
