@@ -1,7 +1,12 @@
 {
 	"rows": [
-		{ "kaset_id": 99, "kaset_nama": "test\r\n"},
-		{ "kaset_id": 123, "kaset_nama": "asd"}
+		{ 
+			"kaset_id": 99, 
+			"kaset_nama": "test\r\n"
+		},
+		{ "kaset_id": 123, 
+		 "kaset_nama": "asd"
+		}
 	],
 	"total": 2,
 	"totalNotFiltered": 2
